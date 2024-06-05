@@ -73,7 +73,7 @@
     "popsicle": "10.0.1",
     "query-string": "^6.12.1",
     "rsa-pem-from-mod-exp": "^0.8.4",
-    "winston": "^3.1.0",
+    "winston": "3.1.0",
     "snyk": "^1.316.1"
   },
   "devDependencies": {
